@@ -1,0 +1,11 @@
+{
+  "name": "employee-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
